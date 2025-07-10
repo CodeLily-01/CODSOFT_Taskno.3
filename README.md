@@ -7,8 +7,8 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 
 ## 🔗 Live Preview
 
-[Click here to view the live site](https://your-deployed-link.com)  
-*(Add your live GitHub Pages or Netlify link here)*
+[Click here to view the live site](https://codelily-01.github.io/CODSOFT_Taskno.3/)
+
 
 ---
 
